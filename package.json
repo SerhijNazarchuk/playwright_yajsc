@@ -1,0 +1,25 @@
+{
+  "name": "playwright_yajsc",
+  "version": "1.0.0",
+  "description": "playwright lerning &amp; practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhijNazarchuk/playwright_yajsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SerhijNazarchuk/playwright_yajsc/issues"
+  },
+  "homepage": "https://github.com/SerhijNazarchuk/playwright_yajsc#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
